@@ -1,0 +1,6 @@
+name: Books
+version: '${project.version}'
+main: books.books.Books
+api-version: 1.19
+
+commands:

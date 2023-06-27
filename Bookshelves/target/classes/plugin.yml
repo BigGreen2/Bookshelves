@@ -1,0 +1,6 @@
+name: Books
+version: '1.0-SNAPSHOT'
+main: books.books.Books
+api-version: 1.19
+
+commands:
